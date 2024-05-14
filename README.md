@@ -35,7 +35,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,next.js,javascript,typescript,tailwind,postgres" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,tailwind,postgres" />
 </div>
 
 <br/>
