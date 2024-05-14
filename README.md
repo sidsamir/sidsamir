@@ -35,7 +35,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=php,symfony,javascript,tailwind,docker,postgres" />
+    <img src="https://skillicons.dev/icons?i=react,next.js,javascript,typescript,tailwind,postgres" />
 </div>
 
 <br/>
@@ -44,7 +44,7 @@
 <h2 align="center">💻 My environment 💻</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=linux,vscode,phpstorm,github,gitlab" />
+    <img src="https://skillicons.dev/icons?i=linux,vscode,webstorm,github" />
 </div>
 
 <br/>
