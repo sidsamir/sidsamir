@@ -1,52 +1,70 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<h1 align="center">Hey 👋, Je suis SID Samir</h1>
+<h3 align="center">✨ Développeur Full Stack spécialisé React & Next.js ✨</h3>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sid+Samir!;" />
-</h1>
+---
 
-<h3 align="center">A passionate web developer from France 🇫🇷</h3>
+Passionné par l'optimisation web, l'UX soignée et le clean code, je crée des applications modernes, performantes et scalables.
 
-<br/>
+---
 
-<div align="center">
+### 🚀 Mes Compétences
 
-🔭 I am currently working on an e-commerce site
+<p align="center">
 
-🌱 I'm currently learning CI/CD
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-FBEB3B?style=for-the-badge&logo=javascript&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 
-⚡ Fun fact It's impossible to hum while pinching your nose
+</p>
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:samirsid.pro@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/sid-samir-developpeur" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://www.sidsamir.fr" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+---
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,tailwind,postgres" />
-</div>
+### 🙋‍♂️ À propos de moi
 
-<br/>
-<hr/>
+Développeur freelance avec une solide expérience en conception et déploiement d'applications web modernes. J'accorde une grande importance à l'expérience utilisateur (UX) et je mets un point d'honneur à livrer du code propre, maintenable et performant.
 
-<h2 align="center">💻 My environment 💻</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=linux,vscode,webstorm,github" />
-</div>
+---
 
-<br/>
-<hr/>
+### 📊 Statistiques GitHub
+
+<p align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidsamir&show_icons=true&theme=react)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidsamir&layout=compact&theme=react)
+
+</p>
+
+---
+
+<details>
+  <summary>🎯 Mon approche en quelques mots...</summary>
+
+- 🔥 Focus sur la qualité, la clarté du code et la performance
+- 💡 Toujours curieux, en veille technologique constante
+- 🎨 Créatif avec une sensibilité particulière à l’UX/UI
+- 🤝 Esprit collaboratif, ouvert à l'échange et au partage
+
+</details>
+
+---
+
+### 📫 Contactez-moi !
+
+Envie d'échanger sur vos projets ou collaborations ?
+
+👉 [**LinkedIn**](https://www.linkedin.com/in/sid-samir-developpeur/) • 📧 [**Email**](mailto:samirsid.pro@gmail.com) • 🌐 [**Portfolio**](https://www.sidsamir.fr/)
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Merci+d'avoir+visité+mon+profil!+🤗" alt="Typing SVG" />
+</p>
 
