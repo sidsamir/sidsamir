@@ -65,6 +65,6 @@ Envie d'échanger sur vos projets ou collaborations ?
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Merci+d'avoir+visité+mon+profil!+🤗" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Merci+d'avoir+visité+mon+profil+🤗" alt="Typing SVG" />
 </p>
 
